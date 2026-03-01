@@ -1,0 +1,1 @@
+## CORS - cross origin resource sharingnode

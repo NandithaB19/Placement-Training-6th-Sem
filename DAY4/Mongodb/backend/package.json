@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is a mongodb CRUD operation testing operation",
+  "repository": {
+    "type": "git",
+    "url": "NandithaB19"
+  },
+  "license": "MIT",
+  "author": "Nanditha",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.3",
+    "nodemon": "^3.1.14"
+  }
+}
